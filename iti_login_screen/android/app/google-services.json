@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715696212841",
+    "project_id": "iti-project-c2880",
+    "storage_bucket": "iti-project-c2880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715696212841:android:54371edb38ea5ce7ea8bf8",
+        "android_client_info": {
+          "package_name": "com.example.iti_login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715696212841-buot171gvddt4reruk8nvt2c95s26r23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMiaPZx7FyU2lLjWNsSDgRPNr4sEdUEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715696212841-buot171gvddt4reruk8nvt2c95s26r23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
